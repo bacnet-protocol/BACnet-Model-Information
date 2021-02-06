@@ -1,0 +1,20 @@
+[
+  {
+    "vendorID": 36,
+    "detectedVendorName": "Tridium",
+    "modelName": "Niagara4 Station",
+    "firmwareRevison": "4.6.96.28.1"
+  },
+  {
+    "vendorID": 245,
+    "detectedVendorName": "Contemporary Control Systems, Inc.",
+    "modelName": "BASRT-B",
+    "firmwareRevison": "2.7.11"
+  },
+  {
+    "vendorID": 343,
+    "detectedVendorName": "BACnet Interoperability Testing Services, Inc.",
+    "modelName": "VirtualRouter",
+    "firmwareRevison": "0"
+  }
+]
