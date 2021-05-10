@@ -1,5 +1,20 @@
 [
   {
+    "vendorID": 2,
+    "detectedVendorName": "Trane",
+    "modelName": "Enhanced BCU (BMTX), M2",
+    "latestFirmwareRevison": "17.025",
+    "protocolRevision": null,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "17.025",
+        "knownIssues": [
+          "oi00161 - Broadcast Reject - Contact info@bac-test.com"
+        ]
+      }
+    ]
+  },
+  {
     "vendorID": 5,
     "detectedVendorName": "JCI",
     "modelName": "MS-NAE3510-2",
@@ -59,7 +74,8 @@
       {
         "firmwareRevision": "4.18",
         "knownIssues": [
-          "oi00157 - Contact info@bac-test.com"
+          "oi00157 - Contact info@bac-test.com",
+          "oi00160 - Broadcast COV - Contact info@bac-test.com"
         ]
       }
     ]
@@ -80,7 +96,7 @@
       {
         "firmwareRevision": "1.46",
         "knownIssues": [
-          "oi00159 - Contact info@bac-test.com"
+          "oi00159 - Broadcast Reject - Contact info@bac-test.com"
         ]
       }
     ]
