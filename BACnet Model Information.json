@@ -11,8 +11,10 @@
         "knownIssues": null
       },
       {
-        "firmwareRevision": null,
-        "knownIssues": null
+        "firmwareRevision": "9.0.7.7978",
+        "knownIssues": [
+          "oi00156 - Contact info@bac-test.com"
+        ]
       }
     ]
   },
@@ -21,8 +23,14 @@
     "detectedVendorName": "Tridium",
     "modelName": "Niagara4 Station",
     "latestFirmwareRevison": "4.2.36.34",
-    "protocolRevision": 14,
+    "protocolRevision": null,
     "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "4.2.36.34",
+        "knownIssues": [
+          "oi00158 - Contact info@bac-test.com"
+        ]
+      },
       {
         "firmwareRevision": "4.3.58.18.1",
         "knownIssues": null
@@ -33,7 +41,6 @@
       }
     ]
   },
-
   {
     "vendorID": 245,
     "detectedVendorName": "Contemporary Control Systems, Inc.",
@@ -62,5 +69,20 @@
     "detectedVendorName": "BACnet Interoperability Testing Services, Inc.",
     "modelName": "VirtualRouter",
     "latestFirmwareRevison": "0"
-  }
+  },
+  {
+    "vendorID": 389,
+    "detectedVendorName": "Chipkin Automation Systems",
+    "modelName": "CAS BACnet API",
+    "latestFirmwareRevison": "1.46",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.46",
+        "knownIssues": [
+          "oi00159 - Contact info@bac-test.com"
+        ]
+      }
+    ]
+  },
 ]
