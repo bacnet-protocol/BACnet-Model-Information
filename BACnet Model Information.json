@@ -17,6 +17,23 @@
   {
     "vendorID": 5,
     "detectedVendorName": "JCI",
+    "modelName": "M4-SNC25150-0",
+    "latestFirmwareRevison": "10.1.4.130",
+    "protocolRevision": null,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "10.1.0.1757",
+        "knownIssues": null
+      },
+      {
+        "firmwareRevision": "10.1.4.130",
+        "knownIssues": null
+      }
+    ]
+  },
+  {
+    "vendorID": 5,
+    "detectedVendorName": "JCI",
     "modelName": "MS-NAE3510-2",
     "latestFirmwareRevison": "9.0.7.7978",
     "protocolRevision": null,
@@ -101,4 +118,20 @@
       }
     ]
   },
+  {
+    "vendorID": 432,
+    "detectedVendorName": "LG Electronics Inc.",
+    "modelName": "BNU-BN",
+    "latestFirmwareRevison": "ramdisk-5.07.1-48MB-ncp",
+    "protocolRevision": 7,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "ramdisk-5.07.1-48MB-ncp",
+        "knownIssues": [
+          "oi00xxx - Virtual Router does not have an Application Entity"
+        ],
+        "BTL Certifcate" : "None"
+      }
+    ]
+  }
 ]
