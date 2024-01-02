@@ -2,51 +2,775 @@
   {
     "vendorID": 2,
     "detectedVendorName": "Trane",
-    "modelName": "Enhanced BCU (BMTX), M2",
-    "latestFirmwareRevison": "17.025",
-    "protocolRevision": null,
+    "modelName": "BCI-C",
+    "applicationVersion": "6.01.002",
+    "latestFirmwareRevison": "8.02.002",
+    "protocolRevision": 14,
     "knownFirmwareRevisions": [
       {
-        "firmwareRevision": "17.025",
-        "knownIssues": [
-          "oi00161 - Broadcast Reject - Contact info@bac-test.com"
-        ]
+        "firmwareRevision": "8.02.002",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 2,
+    "detectedVendorName": "Trane",
+    "modelName": "BCI-R - Precedent, Voyager, or Odyssey",
+    "applicationVersion": "6200-0536-06",
+    "latestFirmwareRevison": "6.01.002",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "6.01.002",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 2,
+    "detectedVendorName": "Trane",
+    "modelName": "Tracer SC",
+    "applicationVersion": "v4.40.1211 (release)",
+    "latestFirmwareRevison": "2.6.30_HwVer12AB-hydra",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.6.30_HwVer12AB-hydra",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 2,
+    "detectedVendorName": "Trane",
+    "modelName": "Tracer SC\u002B",
+    "applicationVersion": "v5.10.1311 (release)",
+    "latestFirmwareRevison": "4.4.44_Zeus-DEV1.0.0",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "4.4.44_Zeus-DEV1.0.0",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "R15.V2",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 2,
+    "detectedVendorName": "The Trane Co \u00AE ",
+    "modelName": "Tracer UC800",
+    "applicationVersion": "9.00",
+    "latestFirmwareRevison": "1.00",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.00",
+        "knownIssues": [],
+        "btlApproved": false
       }
     ]
   },
   {
     "vendorID": 5,
     "detectedVendorName": "JCI",
-    "modelName": "M4-SNC25150-0",
-    "latestFirmwareRevison": "10.1.4.130",
-    "protocolRevision": null,
+    "modelName": "SE-SCC1001-0",
+    "applicationVersion": "11.0",
+    "latestFirmwareRevison": "4.4.0.6",
+    "protocolRevision": 9,
     "knownFirmwareRevisions": [
       {
-        "firmwareRevision": "10.1.0.1757",
-        "knownIssues": null
-      },
-      {
-        "firmwareRevision": "10.1.4.130",
-        "knownIssues": null
+        "firmwareRevision": "4.4.0.6",
+        "knownIssues": [],
+        "btlApproved": false
       }
     ]
   },
   {
-    "vendorID": 5,
-    "detectedVendorName": "JCI",
-    "modelName": "MS-NAE3510-2",
-    "latestFirmwareRevison": "9.0.7.7978",
-    "protocolRevision": null,
+    "vendorID": 7,
+    "detectedVendorName": "Siemens",
+    "modelName": "BACnet Server",
+    "applicationVersion": "Unknown",
+    "latestFirmwareRevison": "1.0.0.0",
+    "protocolRevision": 12,
     "knownFirmwareRevisions": [
       {
-        "firmwareRevision": "8.1.0.2572",
-        "knownIssues": null
+        "firmwareRevision": "1.0.0.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens",
+    "modelName": "Desigo CC",
+    "applicationVersion": "6.07",
+    "latestFirmwareRevison": "6.0",
+    "protocolRevision": 16,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "6.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.E12P-1",
+    "applicationVersion": "AAS-20:AP=EBU_ABSV_EAAAAV_XXXXASAD_ARAACAA_RMT.3.001;SU=UsUn;APT=HvacLgtShd12_A;APTV=8.001;",
+    "latestFirmwareRevison": "01.21",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "01.21",
+        "knownIssues": [],
+        "btlApproved": false
       },
       {
-        "firmwareRevision": "9.0.7.7978",
-        "knownIssues": [
-          "oi00156 - Contact info@bac-test.com"
-        ]
+        "firmwareRevision": "v01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.E17C-1",
+    "applicationVersion": "AAS-20:AP=EEU_ACHV_XXXHAB_XXXXAHAD_AHAAAAC_XXX.1.000;SU=UsUn;APT=HvacLgt16_A;APTV=1.010;",
+    "latestFirmwareRevison": "01.21",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.240;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "v01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.E17CX-1",
+    "applicationVersion": "AAS-20:AP=EFU_ABTC_HAAAAT_AAABASAD_ARAACCE_AAA.1.000;SU=UsUn;APT=HvacLgtShd14_A;APTV=1.010;",
+    "latestFirmwareRevison": "01.21",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.240;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "v01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.E18-1",
+    "applicationVersion": "AAS-20:AP=15018.3.001;SU=UsUn;APT=HvacLgtShd11_A;APTV=8.001;",
+    "latestFirmwareRevison": "01.21",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.M12P-1",
+    "applicationVersion": "AAS-20:AP=MBU_ABST_HAAHAV_XXXXASAD_ARAACAA_XXX.3.001;SU=UsUn;APT=HvacLgtShd12_A;APTV=8.001;",
+    "latestFirmwareRevison": "01.21",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.29.104;WPC=1.4.130;SVS-300.1:SBC=13.21;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.29.141;WPC=1.4.131;SVS-300.1:SBC=13.21;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.128;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.207;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.240;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "v01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies",
+    "modelName": "DXR2.M18-1",
+    "applicationVersion": "AAS-20:AP=15051_Fan_Coil_DXR2M18_US.3.001;SU=UsUn;APT=HvacLgtShd11_A;APTV=3.001;",
+    "latestFirmwareRevison": "FW=01.21.29.104;WPC=1.4.130;SVS-300.1:SBC=13.21;",
+    "protocolRevision": 13,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "FW=01.21.29.104;WPC=1.4.130;SVS-300.1:SBC=13.21;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.29.114;WPC=1.4.131;SVS-300.1:SBC=13.21;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.29.141;WPC=1.4.131;SVS-300.1:SBC=13.21;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.128;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.207;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "FW=01.21.50.240;WPC=1.7.10;SVS-300.4:SBC=13.22;",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "v01.21",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Fan Coil Series 2 Bacnet ASC Controller",
+    "applicationVersion": "Appl Rev 1.2",
+    "latestFirmwareRevison": "BF20 Rev 1.0",
+    "protocolRevision": 3,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "BF20 Rev 1.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "PPM Series 1 Bacnet ASC Controller",
+    "applicationVersion": "Appl Rev 3.0",
+    "latestFirmwareRevison": "Analog PPM V1.10",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "Analog PPM V1.10",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "Combo PPM V1.10",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "Digital PPM V1.00",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "SIEMENS",
+    "modelName": "RPM GEN-II",
+    "applicationVersion": "v2.70",
+    "latestFirmwareRevison": "6.46",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "6.46",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet Constant Volume (long)",
+    "applicationVersion": "BC50",
+    "latestFirmwareRevison": "2.1.5.7",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.5.7",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet Fan Coil Controller (long)",
+    "applicationVersion": "BF51",
+    "latestFirmwareRevison": "2.1.6.14",
+    "protocolRevision": 9,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.6.14",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet Fan Coil Controller (short)",
+    "applicationVersion": "BT50",
+    "latestFirmwareRevison": "2.1.0.8",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.0.8",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "2.1.6.14",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Industry Inc., Bldg Tech",
+    "modelName": "Siemens BACnet Field Panel",
+    "applicationVersion": "BXE1252",
+    "latestFirmwareRevison": "EPXC V3.2.5 BACnet 4.3g",
+    "protocolRevision": 7,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "EPXC V3.2.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.3 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.3.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.5.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.5.2 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.5.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EPXC V3.5.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EX36 V3.3.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EX36 V3.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EX36 V3.5.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EX36 V3.5.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "EX36 V3.5.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.3 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.3.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.5.2 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXCE V3.5.3 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.2 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.2.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.2.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.3 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.3.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5.1 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5.2 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5.3 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5.4 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "PXME V3.5.5 BACnet 4.3g",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet PRC RHT RAD",
+    "applicationVersion": "ZG52",
+    "latestFirmwareRevison": "2.1.6.13",
+    "protocolRevision": 9,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.6.13",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet Unit Vent Controller",
+    "applicationVersion": "BE51",
+    "latestFirmwareRevison": "2.1.6.17",
+    "protocolRevision": 9,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.6.17",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet VAV Controller (long)",
+    "applicationVersion": "BV50",
+    "latestFirmwareRevison": "2.1.5.67",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.5.67",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "2.1.6.70",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "2.1.6.71",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "Siemens BACnet VAV Controller (short)",
+    "applicationVersion": "BS50",
+    "latestFirmwareRevison": "2.1.0.15",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.0.15",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "2.1.6.23",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "VAV Actuator Series 2 Bacnet ASC Controller",
+    "applicationVersion": "Appl Rev 1.2",
+    "latestFirmwareRevison": "BY32 Rev 1.0",
+    "protocolRevision": 3,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "BY32 Rev 1.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "VAV CB DCV Series 2 Bacnet ASC Controller",
+    "applicationVersion": "BB53",
+    "latestFirmwareRevison": "2.1.6.18",
+    "protocolRevision": 9,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.1.6.18",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "BB22 Rev 1.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 7,
+    "detectedVendorName": "Siemens Building Technologies, BAU-NA",
+    "modelName": "VAV Series 2 Bacnet ASC Controller",
+    "applicationVersion": "Appl Rev 1.2",
+    "latestFirmwareRevison": "BV20 Rev 1.0",
+    "protocolRevision": 3,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "BV20 Rev 1.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 10,
+    "detectedVendorName": "Schneider Electric",
+    "modelName": "ATV630U75N4",
+    "applicationVersion": "V1.3IE2",
+    "latestFirmwareRevison": "V1.9",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V1.9",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 10,
+    "detectedVendorName": "Schneider Electric",
+    "modelName": "M168",
+    "applicationVersion": "1.0",
+    "latestFirmwareRevison": "1.07.4",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.07.4",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 10,
+    "detectedVendorName": "Schneider",
+    "modelName": "M172",
+    "applicationVersion": "",
+    "latestFirmwareRevison": "",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 10,
+    "detectedVendorName": "Schneider Electric",
+    "modelName": "nanodac",
+    "applicationVersion": "V8.11",
+    "latestFirmwareRevison": "V8.11",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V8.11",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 24,
+    "detectedVendorName": "Automated Logic Corporation",
+    "modelName": "I/O Pro 812u",
+    "applicationVersion": "PRG:p4s_vav_gh_eh_hgrc_fm_eev-f1",
+    "latestFirmwareRevison": "BOOT(id=0,ver=0.01:001,crc=0x0000) MAIN(id=3,ver=6.00a:067,crc=0x0662) ",
+    "protocolRevision": 9,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "BOOT(id=0,ver=0.01:001,crc=0x0000) MAIN(id=3,ver=6.00a:067,crc=0x0662) ",
+        "knownIssues": [],
+        "btlApproved": false
       }
     ]
   },
@@ -54,6 +778,7 @@
     "vendorID": 36,
     "detectedVendorName": "Tridium",
     "modelName": "Niagara4 Station",
+    "applicationVersion": "Tridium 4.2.36.34",
     "latestFirmwareRevison": "4.2.36.34",
     "protocolRevision": null,
     "knownFirmwareRevisions": [
@@ -61,15 +786,373 @@
         "firmwareRevision": "4.2.36.34",
         "knownIssues": [
           "oi00158 - Contact info@bac-test.com"
-        ]
+        ],
+        "btlApproved": false
       },
       {
         "firmwareRevision": "4.3.58.18.1",
-        "knownIssues": null
+        "knownIssues": null,
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "4.6.96.28.1",
+        "knownIssues": [],
+        "btlApproved": false
       },
       {
         "firmwareRevision": "4.8.0.110",
-        "knownIssues": null
+        "knownIssues": null,
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "4.9.0.198",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 37,
+    "detectedVendorName": "Sierra Monitor Corporation",
+    "modelName": "FPC-ED2",
+    "applicationVersion": "V6.51c (D)",
+    "latestFirmwareRevison": "V2.09i",
+    "protocolRevision": 16,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V2.09i",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 37,
+    "detectedVendorName": "Sierra Monitor Corporation",
+    "modelName": "FPC-N34",
+    "applicationVersion": "V6.51c (D)",
+    "latestFirmwareRevison": "V2.09i",
+    "protocolRevision": 16,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V2.09i",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 37,
+    "detectedVendorName": "FieldServer Technologies",
+    "modelName": "ProtoCessor FFP485",
+    "applicationVersion": "V6.16b (D)",
+    "latestFirmwareRevison": "V2.08d",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V2.08d",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "V2.08n",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "V2.09i",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 37,
+    "detectedVendorName": "Sierra Monitor Corporation",
+    "modelName": "PS-QS-2010-F",
+    "applicationVersion": "V6.51c (D)",
+    "latestFirmwareRevison": "V2.09i",
+    "protocolRevision": 16,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "V2.09i",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 53,
+    "detectedVendorName": "DAIKIN Industries LTD",
+    "modelName": "D-BACS BACnet Gateway",
+    "applicationVersion": "06_30_00",
+    "latestFirmwareRevison": "Ver.000.001",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "Ver.000.001",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 77,
+    "detectedVendorName": "Carel S.p.A.",
+    "modelName": "PCO1000BA0",
+    "applicationVersion": "2.15.2C",
+    "latestFirmwareRevison": "A485-1.2.7 - B485-1.0.5",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "A485-1.2.7 - B485-1.0.5",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 113,
+    "detectedVendorName": "Vertiv",
+    "modelName": "47SA040EAC",
+    "applicationVersion": "7.7.0.0",
+    "latestFirmwareRevison": "IS-UNITY_7.7.0.0_00076",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "IS-UNITY_7.7.0.0_00076",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 113,
+    "detectedVendorName": "Vertiv",
+    "modelName": "Liebert CRV",
+    "applicationVersion": "7.7.0.0",
+    "latestFirmwareRevison": "IS-UNITY_7.7.0.0_00076",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "IS-UNITY_7.7.0.0_00076",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 122,
+    "detectedVendorName": "Ebtron Inc.",
+    "modelName": "GTC116",
+    "applicationVersion": "1.0",
+    "latestFirmwareRevison": "7.12",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "7.12",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 127,
+    "detectedVendorName": "ABB",
+    "modelName": "ACH550",
+    "applicationVersion": "313D",
+    "latestFirmwareRevison": "050F",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "050F",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "0511",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "1509",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "150A",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 127,
+    "detectedVendorName": "ABB",
+    "modelName": "ACH580",
+    "applicationVersion": "Drive FW: 2.15.0.14 BACnet Appl: 2041",
+    "latestFirmwareRevison": "14.01",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "14.01",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 141,
+    "detectedVendorName": "Yaskawa",
+    "modelName": "HV60U",
+    "applicationVersion": "VSEA010xx",
+    "latestFirmwareRevison": "2.01",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.01",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 141,
+    "detectedVendorName": "Yaskawa",
+    "modelName": "SI-B3",
+    "applicationVersion": "VST80026x",
+    "latestFirmwareRevison": "1.8",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.8",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 141,
+    "detectedVendorName": "Yaskawa",
+    "modelName": "UTC00046X",
+    "applicationVersion": "VST80029x",
+    "latestFirmwareRevison": "1.4",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.4",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "1.5",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 141,
+    "detectedVendorName": "Yaskawa",
+    "modelName": "Z1000",
+    "applicationVersion": "VSE90101x",
+    "latestFirmwareRevison": "1.8",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.8",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "1.9",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 190,
+    "detectedVendorName": "Danfoss Drives A/S",
+    "modelName": "FC-102",
+    "applicationVersion": "1.11",
+    "latestFirmwareRevison": "1.11",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.11",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "1.6",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "1.9",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 191,
+    "detectedVendorName": "Eaton",
+    "modelName": "OPTCJ",
+    "applicationVersion": "10522",
+    "latestFirmwareRevison": "13",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "13",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 208,
+    "detectedVendorName": "Control Solutions Inc",
+    "modelName": "Babel Buster BB3-7101",
+    "applicationVersion": "3.15.15",
+    "latestFirmwareRevison": "3.15.15",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "3.15.15",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 219,
+    "detectedVendorName": "Aircuity",
+    "modelName": "1294965477",
+    "applicationVersion": "1.11.0",
+    "latestFirmwareRevison": "1.5.3",
+    "protocolRevision": 2,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.5.3",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 233,
+    "detectedVendorName": "Red Lion Controls Inc.",
+    "modelName": "G3",
+    "applicationVersion": "UNKNOWN",
+    "latestFirmwareRevison": "1.10",
+    "protocolRevision": 4,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.10",
+        "knownIssues": [],
+        "btlApproved": false
       }
     ]
   },
@@ -77,23 +1160,112 @@
     "vendorID": 245,
     "detectedVendorName": "Contemporary Control Systems, Inc.",
     "modelName": "BASRT-B",
+    "applicationVersion": "",
     "latestFirmwareRevison": "2.7.11",
     "protocolRevision": null,
-    "knownFirmwareRevisions": null
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.7.11",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 298,
+    "detectedVendorName": "DriSteem Co.",
+    "modelName": "RX-126-2",
+    "applicationVersion": "06.03.05",
+    "latestFirmwareRevison": "06.03.05",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "06.03.05",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 298,
+    "detectedVendorName": "DriSteem Co.",
+    "modelName": "RX-42-1",
+    "applicationVersion": "06.03.05",
+    "latestFirmwareRevison": "06.03.05",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "06.03.05",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 298,
+    "detectedVendorName": "DriSteem Co.",
+    "modelName": "RX-48-1",
+    "applicationVersion": "06.03.05",
+    "latestFirmwareRevison": "06.03.05",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "06.03.05",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 298,
+    "detectedVendorName": "DriSteem Co.",
+    "modelName": "RX-63-1",
+    "applicationVersion": "06.03.05",
+    "latestFirmwareRevison": "06.03.05",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "06.03.05",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 298,
+    "detectedVendorName": "DriSteem Co.",
+    "modelName": "VLC18_3",
+    "applicationVersion": "06.03.01",
+    "latestFirmwareRevison": "06.03.01",
+    "protocolRevision": 14,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "06.03.01",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
   },
   {
     "vendorID": 303,
     "detectedVendorName": "RTA",
     "modelName": "RTA460",
-    "latestFirmwareRevison": "4.18",
+    "applicationVersion": "12.24",
+    "latestFirmwareRevison": "12.24",
     "protocolRevision": null,
     "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "12.24",
+        "knownIssues": [],
+        "btlApproved": false
+      },
       {
         "firmwareRevision": "4.18",
         "knownIssues": [
           "oi00157 - Contact info@bac-test.com",
           "oi00160 - Broadcast COV - Contact info@bac-test.com"
-        ]
+        ],
+        "btlApproved": false
       }
     ]
   },
@@ -101,12 +1273,37 @@
     "vendorID": 343,
     "detectedVendorName": "BACnet Interoperability Testing Services, Inc.",
     "modelName": "VirtualRouter",
-    "latestFirmwareRevison": "0"
+    "applicationVersion": "",
+    "latestFirmwareRevison": "",
+    "protocolRevision": 22,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 366,
+    "detectedVendorName": "ICONICS, Inc.",
+    "modelName": "BACnet Server for Windows V1.0",
+    "applicationVersion": "1.0",
+    "latestFirmwareRevison": "4,0,1,3830",
+    "protocolRevision": 7,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "4,0,1,3830",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
   },
   {
     "vendorID": 389,
     "detectedVendorName": "Chipkin Automation Systems",
     "modelName": "CAS BACnet API",
+    "applicationVersion": "",
     "latestFirmwareRevison": "1.46",
     "protocolRevision": 12,
     "knownFirmwareRevisions": [
@@ -114,7 +1311,8 @@
         "firmwareRevision": "1.46",
         "knownIssues": [
           "oi00159 - Broadcast Reject - Contact info@bac-test.com"
-        ]
+        ],
+        "btlApproved": false
       }
     ]
   },
@@ -122,6 +1320,7 @@
     "vendorID": 432,
     "detectedVendorName": "LG Electronics Inc.",
     "modelName": "BNU-BN",
+    "applicationVersion": "",
     "latestFirmwareRevison": "ramdisk-5.07.1-48MB-ncp",
     "protocolRevision": 7,
     "knownFirmwareRevisions": [
@@ -130,7 +1329,117 @@
         "knownIssues": [
           "oi00xxx - Virtual Router does not have an Application Entity"
         ],
-        "BTL Certifcate" : "None"
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 648,
+    "detectedVendorName": "Spectrum Controls Inc",
+    "modelName": "2080sc-BACNET",
+    "applicationVersion": "1.11",
+    "latestFirmwareRevison": "0.6.0",
+    "protocolRevision": 10,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "0.6.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 661,
+    "detectedVendorName": "Lochinvar, LLC",
+    "modelName": "MTR01-BACnet",
+    "applicationVersion": "MNCA_P170301",
+    "latestFirmwareRevison": "2.8",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "2.8",
+        "knownIssues": [],
+        "btlApproved": false
+      },
+      {
+        "firmwareRevision": "3.7",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 768,
+    "detectedVendorName": "ADFweb.com srl",
+    "modelName": "HD67679-IP",
+    "applicationVersion": "1.0",
+    "latestFirmwareRevison": "1.0",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.0",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 834,
+    "detectedVendorName": "Powers",
+    "modelName": "1096-01",
+    "applicationVersion": "J1277D",
+    "latestFirmwareRevison": "559",
+    "protocolRevision": 12,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "559",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 834,
+    "detectedVendorName": "Powers",
+    "modelName": "1109-01",
+    "applicationVersion": "J1273E",
+    "latestFirmwareRevison": "206",
+    "protocolRevision": 10,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "206",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 983,
+    "detectedVendorName": "AERCO",
+    "modelName": "110902",
+    "applicationVersion": "J1275C",
+    "latestFirmwareRevison": "1.0.3",
+    "protocolRevision": 10,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "1.0.3",
+        "knownIssues": [],
+        "btlApproved": false
+      }
+    ]
+  },
+  {
+    "vendorID": 1057,
+    "detectedVendorName": "Iwaki America",
+    "modelName": "WCT900",
+    "applicationVersion": "3.25-12081",
+    "latestFirmwareRevison": "3.25-12082",
+    "protocolRevision": 15,
+    "knownFirmwareRevisions": [
+      {
+        "firmwareRevision": "3.25-12082",
+        "knownIssues": [],
+        "btlApproved": false
       }
     ]
   }
